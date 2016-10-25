@@ -5,9 +5,9 @@ This repository contain basic C language programs that can be helpful if you wan
 ---
 
 ### How to:
-To compile C code, install **build-essentials** with:
+To compile C code, install **build-essential** with:
 ```
-sudo apt-get install build-essentials
+sudo apt-get install build-essential
 ```
 
 then choose a **file.c** and compile it with
