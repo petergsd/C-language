@@ -7,7 +7,7 @@ int main(){
 
 	int index;
 
-	//charge pair numbers into the array
+	//charge numbers into the array
 	for(index = 0; index < 10; index++)
 		array[index] = index;
 
